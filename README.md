@@ -1,2 +1,3 @@
-# chemicke-vzorce
-Program ktorýy vie vytvárať halogenidy zo vzorca na názov a názov na vzorec
+# Chemické Vzorce
+
+Program, ktorý vie meniť halogenidové vzorce na názov a naspäť.
