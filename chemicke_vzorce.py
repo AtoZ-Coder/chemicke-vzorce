@@ -1,4 +1,4 @@
-
+#for the commit!
 
 pripony = ["X","ný", "natý", "itý", "ičitý", "ičny/ečný", "ový", "istý", "ičelý"]   #list z priponami
 skratky = ["Na", "Li", "K", "Be", "Mg", "Ca", "Ba", "Ti", "V", "Cr", "W", "Mn", "Fe", "Ni", "Cu", "Ag", "Au", "B", "Al", "Pb", "Si", "C", "P"]
